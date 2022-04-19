@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Quintessential&family=Roboto:wght@300&display=swap");
+.sobrenosotros__articulo {
+  width: 60%;
+  margin: 30px auto 30px auto;
+  padding: 15px;
+  box-sizing: border-box;
+  border-style: solid;
+  display: flex; }
+
+.sobrenosotros__titulo {
+  font-size: 3rem;
+  text-align: center;
+  color: white; }
+
+.sobrenosotros__texto {
+  font-size: 1.5rem;
+  color: white;
+  margin: 10px; }
+
+.pie {
+  background-color: #ed130c;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.pie__titulo {
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+  display: flex; }
+
+.pie__icon {
+  width: 50px;
+  display: flex; }
+
+.mapa__titulo, .mapa__titulo2 {
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+  margin-top: 50px; }
+
+.texto__mapa {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  margin: 20px; }
+
+.div__mapa {
+  background-color: rgba(0, 0, 0, 0.5);
+  filter: alpha(opacity=60);
+  text-align: center;
+  box-sizing: border-box;
+  padding: auto;
+  margin: 50px auto 20px auto;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 80%; }
+
+.titulo__pedido {
+  font-size: 4rem;
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.texto__pedido {
+  font-size: 2rem;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white; }
+
+.contenedor_1 {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+  padding: 30px; }
+
+.contenedor__logo {
+  width: 70px; }
+
+.contenedor_2 {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 50px;
+  padding: 30px; }
+
+.titulo__1 {
+  font-size: 3rem;
+  color: white; }
+
+.texto__pedido1 {
+  font-size: 3rem;
+  color: white;
+  text-align: center; }
+
+.formulario {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-size: 2rem;
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: black;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 1.5rem; }
+
+.titulo__opinion {
+  margin-top: 30px;
+  font-size: 6rem; }
+
+.opinion__texto {
+  font-size: 5rem;
+  text-align: center;
+  margin: 20px; }
+
+.titulo__precios {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 3rem; }
+
+.tabla__precios {
+  font-size: 3rem;
+  margin: auto;
+  padding: 10px;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  border-style: solid; }
+
+.encabezado__header {
+  display: flex;
+  width: 90%;
+  margin: 10px auto auto auto; }
+
+* {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed; }
+
+.bg-rojo {
+  background-color: #ed130c; }
+
+.bg-dark {
+  background-color: rgba(0, 0, 0, 0.5); }
